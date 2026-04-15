@@ -4,8 +4,8 @@ The target web application has an unprotected admin panel. Solve this task by de
 
 Instructions:
 
-- Launch the application using the provided app.exe file
+- Launch the application using the provided app.exe file.
 
 Hints:
 
-- Explore differnt application's paths
+- Explore differnt application's paths.
