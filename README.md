@@ -9,3 +9,4 @@ Instructions:
 Hints:
 
 - Explore differnt application's paths.
+- The path to the admin panel is disclosed somewhere in the application.
